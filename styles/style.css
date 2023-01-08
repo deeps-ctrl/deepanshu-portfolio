@@ -2,7 +2,6 @@
 
 /* Creating variable in css */
 :root {
-  /* --primary-color: #6c63ff; */
   --primary-color: #1c315e;
   --dark-gray: #6b7280;
   --off-white: #f3f4f6;
@@ -142,4 +141,8 @@ hr {
 }
 .footer .link {
   color: white;
+}
+
+.social-links {
+  margin-top: 2rem;
 }
